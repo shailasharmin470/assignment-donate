@@ -74,3 +74,28 @@ h4 {
     background-color: rgb(252, 173, 159);
     border: 2px solid rgb(136, 23, 23);
 }
+
+#food {
+    background-color: rgb(129, 129, 252);
+
+}
+
+#shelter {
+    background-color: rgb(250, 167, 195);
+}
+
+.container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(203, 243, 144);
+    padding: 30px 20px 20px;
+
+}
