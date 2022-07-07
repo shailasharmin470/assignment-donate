@@ -4,11 +4,31 @@ body {
     margin-top: 0px;
 }
 
+#email {
+    text-align: center;
+    font-size: small;
+    padding: 0% 20% 2%;
+}
+
+.subs {
+    padding-top: 3%;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-bottom: 0%;
+    background-color: rgb(250, 228, 220);
+    height: 100px;
+    width: 300px;
+    margin-bottom: 60px;
+    margin-left: 480px;
+    margin-right: 80px;
+    margin-top: 5px;
+}
+
 h2 {
     font-weight: 1500;
     text-align: center;
     margin-top: 100px;
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .one {
@@ -69,6 +89,9 @@ h4 {
 .whole-footer {
     background-color: rgb(16, 4, 48);
     width: 1586px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-bottom: 0px;
 
 }
 
