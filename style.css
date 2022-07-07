@@ -121,3 +121,17 @@ h4 {
     padding: 30px 20px 20px;
 
 }
+
+#extra {
+    display: flex;
+}
+
+.new-extra {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.new-extra img {
+    width: 80%;
+    margin: 5%;
+}
